@@ -23,7 +23,7 @@ const Header = () => {
     <header className="header">
       <nav className="navbar container">
         {/* logo */}
-        <div className="order-0">
+        <div className="order-0" style={{marginTop: -20}}>
           <Logo src={logo} />
         </div>
 
