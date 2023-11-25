@@ -1,7 +1,7 @@
 ---
 banner:
   title: Every dribble, every shot, every cheer; Our club, our passion, our victory's frontier.
-  content: Global Basketball Club, based in Seattle’s Eastside, is a basketball club that helps young people develop a better understanding of the game of basketball and the importance of individual growth within a team environment. Our team selection will reflect our strong belief in personal growth, sportsmanship, and respect for teammates, opponents, officials and coaches.
+  content: Local Basketball Club, based in Seattle’s Eastside, is a basketball club that helps young people develop a better understanding of the game of basketball and the importance of individual growth within a team environment. Our team selection will reflect our strong belief in personal growth, sportsmanship, and respect for teammates, opponents, officials and coaches.
   # image: /images/banner-art.svg
   button:
     label: "Contact Us"
