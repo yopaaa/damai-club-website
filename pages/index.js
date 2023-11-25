@@ -26,7 +26,7 @@ const Home = ({ frontmatter }) => {
         <div className="container">
           <div className="row text-center">
             <div className="mx-auto lg:col-10">
-              <h1 className="font-primary font-bold">{banner.title}</h1>
+              <h1 className="font-primary font-bold" style={{color: 'black', textTransform: 'uppercase'}}>{banner.title}</h1>
               <p className="mt-4" style={{color: 'black'}}>{markdownify(banner.content)}</p>
               {banner.button.enable && (
                 <Link
