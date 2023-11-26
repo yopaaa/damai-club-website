@@ -4,6 +4,7 @@ banner:
   content: Local Basketball Club, based in Seattle’s Eastside, is a basketball club that helps young people develop a better understanding of the game of basketball and the importance of individual growth within a team environment. Our team selection will reflect our strong belief in personal growth, sportsmanship, and respect for teammates, opponents, officials and coaches.
   # image: /images/banner-art.svg
   button:
+    # enable: true
     label: "Contact Us"
     link: "/contact"
 

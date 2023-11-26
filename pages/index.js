@@ -26,8 +26,15 @@ const Home = ({ frontmatter }) => {
         <div className="container">
           <div className="row text-center">
             <div className="mx-auto lg:col-10">
-              <h1 className="font-primary font-bold" style={{color: 'black', textTransform: 'uppercase'}}>{banner.title}</h1>
-              <p className="mt-4" style={{color: 'black'}}>{markdownify(banner.content)}</p>
+              <h1
+                className="font-primary font-bold"
+                style={{ color: "black", textTransform: "uppercase" }}
+              >
+                {banner.title}
+              </h1>
+              <p className="mt-4" style={{ color: "black" }}>
+                {markdownify(banner.content)}
+              </p>
               {banner.button.enable && (
                 <Link
                   className="btn btn-primary mt-4"
@@ -37,14 +44,18 @@ const Home = ({ frontmatter }) => {
                   {banner.button.label}
                 </Link>
               )}
-              <Image
-                className="mx-auto mt-12"
-                src={banner.image}
-                width={750}
-                height={390}
-                alt="banner image"
-                priority
-              />
+              {banner.image ? (
+                <Image
+                  className="mx-auto mt-12"
+                  src={banner.image}
+                  width={750}
+                  height={390}
+                  alt="banner image"
+                  priority
+                />
+              ) : (
+                <div style={{height: 200}}></div>
+              )}
             </div>
           </div>
         </div>
@@ -64,7 +75,7 @@ const Home = ({ frontmatter }) => {
               >
                 {item.icon && (
                   <Image
-                    className="mx-auto"
+                    className={`mx-auto`}
                     src={item.icon}
                     width={30}
                     height={30}

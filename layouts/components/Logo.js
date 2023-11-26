@@ -10,7 +10,7 @@ const Logo = ({ src, style }) => {
   return (
     <Link
       href={base_url}
-      className="navbar-brand block py-1"
+      className={"navbar-brand block py-1 "}
       style={{
         height: logo_height.replace("px", "") + "px",
         width: logo_width.replace("px", "") + "px",
@@ -24,6 +24,7 @@ const Logo = ({ src, style }) => {
           alt={title}
           priority
           style={style}
+          // className={classImg}
         />
       ) : logo_text ? (
         logo_text

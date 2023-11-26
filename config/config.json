@@ -22,7 +22,7 @@
   },
 
   "params": {
-    "contact_form_action": "",
+    "contact_form_action": "/api/receiveMessage",
     "tag_manager_id": "",
     "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
     "copyright": "Designed and Developed By [Yopaaa](https://github.com/yopaaa)"

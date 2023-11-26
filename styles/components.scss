@@ -8,6 +8,16 @@
   @apply mx-auto max-w-[1140px] px-4;
 }
 
+/* CSS umum di luar media query */
+@media screen and (max-width: 1023px) {
+  .logo-container {
+    height: 60px
+  }
+ .section {
+   padding-top: 40px
+ }
+}
+
 // form style
 .form-inputs * {
   @apply mb-5 leading-10;
