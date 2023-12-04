@@ -17,6 +17,10 @@
       "url": "/contact"
     },
     {
+      "name": "Gallery",
+      "url": "/gallery"
+    },
+    {
       "name": "FAQ",
       "url": "/faq"
     }
