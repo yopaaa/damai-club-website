@@ -4,6 +4,7 @@ import Contact from "@layouts/Contact";
 import Default from "@layouts/Default";
 import Faq from "@layouts/Faq";
 import Pricing from "@layouts/Pricing";
+import Gallery from "@layouts/Gallery";
 import { getRegularPage, getSinglePage } from "@lib/contentParser";
 
 // for all regular pages
@@ -30,6 +31,9 @@ const RegularPages = ({ data }) => {
         <Pricing data={data} />
       ) : layout === "faq" ? (
         <Faq data={data} />
+      ) : layout === "gallery" ? (
+        <Gallery data={data} />
+        // <Faq data={data} />
       ) : (
         <Default data={data} />
       )}
@@ -58,7 +62,7 @@ export const getStaticPaths = async () => {
 export const getStaticProps = async ({ params }) => {
   const { regular } = params;
   const regularPage = await getRegularPage(regular);
-
+  console.log(regularPage.frontmatter);
   return {
     props: {
       slug: regular,

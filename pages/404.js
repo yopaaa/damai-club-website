@@ -13,6 +13,7 @@ const notFound = ({ data }) => {
 // get 404 page data
 export const getStaticProps = async () => {
   const notFoundData = await getRegularPage();
+  // console.log(notFoundData);
   return {
     props: {
       data: notFoundData,
