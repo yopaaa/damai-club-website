@@ -44,12 +44,12 @@ services:
 
 
 # call_to_action
-call_to_action:
-  title: Ready to get started?
-  content: Sejarah Damai ini bermula pada tahun 1999 yaitu berdiri sebagai organisasi Basketball dengan semangat Sumpah Pemuda. Pada tahun 2006 Organisasi Damai berlanjut dengan bangkit kembali di Kuday.Pada sebelum tahun 1999 sampai sekitar tahun 2005 sudah muncul adanya beragam kegiatan olahraga dan salah satunya adalah IM Bola Basket.
-  image: '/images/cta.svg'
-  button:
-    enable: true
-    label: "Contact Us"
-    link: "/contact"
----
+# call_to_action:
+#   title: Ready to get started?
+#   content: Sejarah Damai ini bermula pada tahun 1999 yaitu berdiri sebagai organisasi Basketball dengan semangat Sumpah Pemuda. Pada tahun 2006 Organisasi Damai berlanjut dengan bangkit kembali di Kuday.Pada sebelum tahun 1999 sampai sekitar tahun 2005 sudah muncul adanya beragam kegiatan olahraga dan salah satunya adalah IM Bola Basket.
+#   image: '/images/cta.svg'
+#   button:
+#     enable: true
+#     label: "Contact Us"
+#     link: "/contact"
+# ---
