@@ -1,6 +1,6 @@
 <h1 align=center>Bigspring Light Nextjs</h1> 
 <p align=center>Bigspring is a web development business template built in Nextjs. Perfect for Creative Agency, Marketing Agency, Design Studios, Digital Marketing Agencies, and other business service websites.</p>
-<h2 align="center"> <a target="_blank" href="https://bigspring-light-nextjs.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbigspring-light-nextjs.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
+<h2 align="center"> <a target="_blank" href="https://bigspring-light-nextjs.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://damaiclub.site">Page Speed (100%)🚀</a>
 </h2>
 
 
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-nextjs" alt="contributors"></a>
 </p>
 
-![bigspring-light](https://demo.gethugothemes.com/thumbnails/bigspring-light.png)
+<!-- ![bigspring-light](https://demo.gethugothemes.com/thumbnails/bigspring-light.png) -->
 
 ## 🔑Key Features
 
@@ -106,10 +106,5 @@ Besides developing unique, blazing-fast Nextjs templates, we also provide custom
 If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our
 [Contact Page](https://themefisher.com/contact)**
 
-## 👉Nextjs Templates By Us
 
-<a href="https://themefisher.com/products/bookworm-light-nextjs">
-<img src="https://demo.gethugothemes.com/thumbnails/bookworm.png" height="300" width="400"/>
-<p>Bookworm Light Nextjs</p>
-</a>
 
