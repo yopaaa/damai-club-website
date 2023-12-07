@@ -3,32 +3,18 @@ title: Gallery
 layout: gallery
 draft: false
 images:
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/221110094559-03-kyrie-irving-brooklyn-nets-knicks.jpg
+- title: Classmeating 2022
+  date: November 26, 2022
+  image: /images/IMG_2840.JPG
 
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/basket_mobile_uffw.jpg
+- title: Lapangan basket damai 
+  date: September 7 2023
+  image: "/images/lapang1.jpeg"
 
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/221110094559-03-kyrie-irving-brooklyn-nets-knicks.jpg
+- title: Lapangan basket damai 
+  date: September 7 2023
+  image: "/images/lapang2.jpeg"
 
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/221110094559-03-kyrie-irving-brooklyn-nets-knicks.jpg
 
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/221110094559-03-kyrie-irving-brooklyn-nets-knicks.jpg
-
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/221110094559-03-kyrie-irving-brooklyn-nets-knicks.jpg
-
-- title: What is the objective of basketball?
-  date: 7 desember 2023
-  image: /images/221110094559-03-kyrie-irving-brooklyn-nets-knicks.jpg
 
 
