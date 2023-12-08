@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "Kontak Kami"
 layout: "contact"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: We're delighted to hear from you! Whether you have questions, comments, or wish to share information, our team is ready to assist you. Please use the contact information provided below to get in touch with us
+  title: Mengapa Anda harus menghubungi kami!
+  description: Kami senang mendengar dari Anda! Baik Anda memiliki pertanyaan, komentar, atau ingin berbagi informasi, tim kami siap membantu Anda. Silakan gunakan informasi kontak yang disediakan di bawah ini untuk menghubungi kami.
   contacts: 
-    - "phone: +62 858-3261-6169"
-    - "Mail: [felix160221@gmail.com](mailto:felix160221@gmail.com)"
-    - "Address: Kuday, Sungailiat, Bangka Belitung island"
+    - "Telepon: +62 858-3261-6169"
+    - "Email: [felix160221@gmail.com](mailto:felix160221@gmail.com)"
+    - "Alamat: Kuday, Sungailiat, Bangka Belitung island"
 ---

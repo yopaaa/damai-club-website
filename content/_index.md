@@ -1,7 +1,7 @@
 ---
 banner:
   title: Every dribble, every shot, every cheer; Our club, our passion, our victory's frontier.
-  content: Local Basketball Club, based in Seattle’s Eastside, is a basketball club that helps young people develop a better understanding of the game of basketball and the importance of individual growth within a team environment. Our team selection will reflect our strong belief in personal growth, sportsmanship, and respect for teammates, opponents, officials and coaches.
+  content: Klub Basket Lokal, yang berbasis di Bangka, adalah klub basket yang membantu para pemuda untuk mengembangkan pemahaman yang lebih baik tentang permainan bola basket dan pentingnya pertumbuhan individu dalam lingkungan tim. Pemilihan tim kami akan mencerminkan keyakinan kami yang kuat dalam pertumbuhan pribadi, sportivitas, dan penghargaan terhadap rekan tim, lawan, official, dan pelatih.
   # image: /images/banner-art.svg
   button:
     # enable: true
@@ -19,23 +19,26 @@ services:
       label: Read more
       link: /blogs/2
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Damai Basketball Club Jersey"
+    content: "Kami bangga mempersembahkan jersey resmi dari klub basket kami, sebuah simbol dari semangat, dedikasi, dan komitmen untuk meraih keunggulan dalam permainan. Jersey kami didesain dengan perhatian terhadap kenyamanan dan performa sehingga setiap pemain dapat tampil maksimal di lapangan."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/jersey1.jpeg"
+      - "/images/jersey2.jpeg"
+      - "/images/jersey3.jpeg"
+      - "/images/jersey4.jpeg"
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Bola yang kami gunakan baik di latihan ataupun pertandingan"
+    content: "Bola basket, inti permainan: Sempurna untuk dribbling, shooting, dan passing. Didesain ergonomis, bola ini memberikan kualitas presisi dan pegangan yang mantap. Cocok untuk latihan atau pertandingan, meningkatkan performa pemain dengan konsistensi dan ketepatan dalam setiap gerakan."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/bola-1.png"
+      - "/images/bola-2.png"
+      - "/images/bola-3.png"
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: /contact
 
